@@ -1,0 +1,1 @@
+O curso GitHub4Women é uma iniciativa empoderadora para mulheres que desejam dominar Git e GitHub. Com foco em colaboração, controle de versão e projetos open-source, oferece atividades práticas, como criação de branches, commits e pull requests, promovendo confiança e habilidades essenciais para o mercado de tecnologia.
